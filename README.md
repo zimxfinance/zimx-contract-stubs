@@ -1,2 +1,10 @@
-# zimx-contract-stubs
-Stub ERC-20 contracts for ZIMX and ZiGX ticker reservations, deployment scripts, and verified address registry.
+# ZIMX / ZiGX – Stub Contracts
+
+Minimal ERC-20 stub contracts to reserve the ZIMX and ZiGX tickers across EVM chains (Base, Ethereum, Polygon, BSC, etc).  
+These are for ticker reservation only — no utility, no trading, no roadmap.
+
+---
+
+© 2025 Blackmass Enterprises Ltd.  
+**Blackmass Enterprises™ **ZIMX™**, and **ZiGX™** are trademarks of Blackmass Enterprises Ltd.  
+All rights reserved.
