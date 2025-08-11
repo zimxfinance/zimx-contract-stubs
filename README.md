@@ -6,5 +6,5 @@ These are for ticker reservation only — no utility, no trading, no roadmap.
 ---
 
 © 2025 Blackmass Enterprises Ltd.  
-**Blackmass Enterprises™ **ZIMX™**, and **ZiGX™** are trademarks of Blackmass Enterprises Ltd.  
+ZIMX™ and ZiGX™ are trademarks of Blackmass Enterprises Ltd.  
 All rights reserved.
